@@ -1,0 +1,8 @@
+[package]
+name = "implementation"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "implementation"
+path = "src/main.rs"

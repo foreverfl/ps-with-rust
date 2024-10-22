@@ -1,0 +1,8 @@
+[package]
+name = "tmp"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "tmp"
+path = "src/main.rs"

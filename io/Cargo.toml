@@ -1,0 +1,16 @@
+[package]
+name = "io"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "single_io"
+path = "src/single_io.rs"
+
+[[bin]]
+name = "line_io"
+path = "src/line_io.rs"
+
+[[bin]]
+name = "buffer_io"
+path = "src/buffer_io.rs"

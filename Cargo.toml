@@ -1,6 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
+    "at_coder",
     "tmp",
     "io",
     "implementation",

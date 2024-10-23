@@ -1,0 +1,8 @@
+[package]
+name = "at_coder"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "abc376_a"
+path = "src/abc376_a.rs"

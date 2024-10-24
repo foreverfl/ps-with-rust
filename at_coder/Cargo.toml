@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "abc376_a"
 path = "src/abc376_a.rs"
+
+[[bin]]
+name = "abc376_b"
+path = "src/abc376_b.rs"

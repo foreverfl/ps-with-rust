@@ -1,5 +1,6 @@
 // A - Candy Button
 // Algorithm: Greedy
+// URL: https://atcoder.jp/contests/abc376
 
 use std::io;
 

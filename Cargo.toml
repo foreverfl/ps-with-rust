@@ -3,6 +3,7 @@ resolver = "2"
 members = [
     "at_coder",
     "tmp",
+    "module",
     "io",
     "implementation",
     "dynamic_programming",

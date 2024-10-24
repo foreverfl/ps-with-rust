@@ -6,3 +6,6 @@ edition = "2021"
 [[bin]]
 name = "tmp"
 path = "src/main.rs"
+
+[dependencies]
+module = { path = "../module" }
